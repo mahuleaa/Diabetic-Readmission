@@ -1,6 +1,8 @@
 # Diabetic-Readmission
 Project Title:- NEXT-GENERATION DIABETIC CARE: HOSPITAL RE-ADMISSION
 PROGNOSIS
+
+
 Problem Definition :- Diabetes is a chronic medical condition that requires continuous
 management and care. Hospital readmissions of diabetic patients can be costly and disruptive to
 both the healthcare system and the patients' lives. For this we identify the factors that lead to the
